@@ -1,4 +1,4 @@
-bmi-calculator
+Nic-Interpreter
 ==============
 
-maven webapp sample - bmi calculator
+maven webapp sample - Nic-Interpreter
