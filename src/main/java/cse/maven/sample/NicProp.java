@@ -14,32 +14,22 @@ public class NicProp {
         return idNumberV;
     }
 
-
-
-
-
-
-
-
-
-
-
-	/*private final float height;
-	//private final float weight;
+    /*private final float height;
+    //private final float weight;
 	
-	public NicProp(float height) {
-		super();
-		this.height = height;
-		//this.weight = weight;
-	}
+    public NicProp(float height) {
+        super();
+	this.height = height;
+	//this.weight = weight;
+    }
 
-	public float getHeight() {
-		return height;
-	}
+     public float getHeight() {
+	return height;
+     }
 
-	public float getWeight() {
-		return weight;
-	}*/
+     public float getWeight() {
+	return weight;
+     }*/
 	
 	
 	
